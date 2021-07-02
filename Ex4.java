@@ -4,7 +4,7 @@ public class Ex4{
      Scanner scanner = new Scanner(System.in);
     System.out.println("What is your name?");
     String input_text = scanner.nextLine();
-    System.out.println("Hello," +input_text+ "!");
+     System.out.println("Hello," +input_text+ "!");
        
         int value1 = (int)(Math.random() * 6) + 1;
         System.out.println("Die1: " +value1);
