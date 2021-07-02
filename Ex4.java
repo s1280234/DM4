@@ -13,6 +13,6 @@ public class Ex4{
         int total = value1 + value2;
         System.out.println("Total value: " +total);
         if(total > 7) System.out.println(input_text+" won");
-    else if(total <= 7) System.out.println(input_text" lost");
+    else if(total <= 7) System.out.println(input_text+" lost");
         }
     }
